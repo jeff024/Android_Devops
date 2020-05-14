@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">UI</string>
-    <string name="Signin">Sign in</string>
-    <string name="Email">Email</string>
-    <string name="Login">Log in</string>
-    <string name="Passw">Password</string>
-</resources>
