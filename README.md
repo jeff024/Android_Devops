@@ -9,3 +9,6 @@ Demo video can be found in image directory
 <h2>Project 3: Simple demo of gesture detector</h2>
 Demo video can be found in image directory
 
+<h2>Project 3: First hands-on building multiple freagments</h2>
+Built a page consisting two seperate Fragments
+

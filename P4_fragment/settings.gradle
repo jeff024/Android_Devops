@@ -1,0 +1,2 @@
+rootProject.name='P4_fragment'
+include ':app'
