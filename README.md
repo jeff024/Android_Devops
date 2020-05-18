@@ -12,3 +12,6 @@ Demo video can be found in image directory
 <h2>Project 4: First hands-on building multiple freagments</h2>
 Built a page consisting two seperate Fragments
 <img src='https://github.com/jeff024/Android_Devops/blob/master/images/Project4_fragment_screenshot.jpg' width="150">
+
+<h2>Project 5: Communication between two fragments</h2>
+Demo video can be found in image directory
