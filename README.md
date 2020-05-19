@@ -19,11 +19,12 @@ Demo video can be found in image directory
 
 <h2>Project 6: Communication between two fragments</h2>
 
-<p>Overview:</p> 
- * Implementing master detail flow activity 
- * Note that this activity can be used for our group project ( individual exercise card list view) 
-Version A: 
-The main activity contains a list of items and each item is clickable 
-After clicking each item, a detail information regarding this item will be prompted up. 
-Version B: 
-After clicking items, instead of showing text of information, we are opening an webview that’s visiting "https://www.google.com"
+<b>Overview:</b>
+
+- Implementing master detail flow activity
+- Note that this activity can be used for our group project ( individual exercise card list view)
+<b>Version A:</b>
+- The main activity contains a list of items and each item is clickable
+- After clicking each item, a detail information regarding this item will be prompted up.
+<b>Version B:</b>
+- After clicking items, instead of showing text of information, we are opening an webview that’s visiting "https://www.google.com"
