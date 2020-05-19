@@ -22,7 +22,7 @@ Demo video can be found in image directory
 <b>Overview:</b>
 
 - Implementing master detail flow activity
-- Note that this activity can be used for our group project ( individual exercise card list view)
+- Note that this activity can be used for our group project (individual exercise card list view)
 
 <b>Version A:</b>
 
