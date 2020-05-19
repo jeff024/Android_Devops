@@ -1,4 +1,5 @@
 # Android_Devops
+
 <h2>Project 1: dummy user interface</h2>
 Simple Log in page
 <img src='https://github.com/jeff024/Android_Devops/blob/master/images/Project1_screenshot.jpg' width="150">
@@ -17,8 +18,11 @@ Built a page consisting two seperate Fragments
 Demo video can be found in image directory
 
 <h2>Project 6: Communication between two fragments</h2>
+
+
+
 Overview: 
-  *  Implementing master detail flow activity 
+ * Implementing master detail flow activity 
  * Note that this activity can be used for our group project ( individual exercise card list view) 
 Version A: 
 The main activity contains a list of items and each item is clickable 
