@@ -32,3 +32,8 @@ Demo video can be found in image directory
 <b>Version B:</b>
 
 - After clicking items, instead of showing text of information, we are opening an webview that’s visiting "https://www.google.com"
+
+<h2>Project 7: Basic Intents implementation</h2>
+
+- This functionality can be used for inserting personal exercise record card as an intent in the summary page
+- Demo video can be found in image directory
