@@ -37,3 +37,7 @@ Demo video can be found in image directory
 
 - This functionality can be used for inserting personal exercise record card as an intent in the summary page
 - Demo video can be found in image directory
+
+<h2>Project 8: Boardcast handeling</h2>
+
+Broadcasting handelling: can be used for error handelling later
