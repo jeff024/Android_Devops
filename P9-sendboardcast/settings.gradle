@@ -1,0 +1,2 @@
+rootProject.name='P9-sendboardcast'
+include ':app'
