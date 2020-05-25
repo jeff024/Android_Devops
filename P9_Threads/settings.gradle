@@ -1,0 +1,2 @@
+rootProject.name='P9_Threads'
+include ':app'

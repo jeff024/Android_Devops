@@ -41,3 +41,13 @@ Demo video can be found in image directory
 <h2>Project 8: Boardcast handeling</h2>
 
 Broadcasting handelling: can be used for error handelling later
+
+<h2>Project 9: threads</h2>
+
+<b>Overview:</b>
+
+- Created a thread that prevents the app from freezing
+
+<b>Project description: </b>
+
+- Allows the backend to process large amount of data (assumed to take 10 seconds) and display text on screen. In this case, just create a thread that wait for 10 seconds to simulate there's a  large computation going on. 
