@@ -51,3 +51,13 @@ Broadcasting handelling: can be used for error handelling later
 <b>Project description: </b>
 
 - Allows the backend to process large amount of data (assumed to take 10 seconds) and display text on screen. In this case, just create a thread that wait for 10 seconds to simulate there's a  large computation going on. 
+
+<h2>Project 10: Camera</h2>
+
+<b>1: Java Version:</b>
+
+- implemented simple dummy camera previewer using Java
+
+<b>2: Kotlin Version: </b>
+
+- Kotline version is a little bit unexpeted comlicated than I expact
