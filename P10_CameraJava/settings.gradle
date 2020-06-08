@@ -1,0 +1,2 @@
+rootProject.name='Camera-java'
+include ':app'
