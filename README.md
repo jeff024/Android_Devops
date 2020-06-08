@@ -60,4 +60,4 @@ Broadcasting handelling: can be used for error handelling later
 
 <b>2: Kotlin Version: </b>
 
-- Kotline version is a little bit unexpeted comlicated than I expact
+- Kotline version is a little bit unexpeted comlicated than I expected
